@@ -1,6 +1,6 @@
 # Hover Reveal
 
-This project is implemented using React, Vite, and TypeScript.
+This project is implemented using React, Vite, and TailwindCSS.
 
 Install the dependencies by running:
 
